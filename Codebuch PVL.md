@@ -1,6 +1,6 @@
-PVL: Netzwerkanalyse Allianz MTV Stuttgart - Codebuch
+<h1> PVL: Netzwerkanalyse Allianz MTV Stuttgart - Codebuch </h1>
 
-Edgelist: <br>
+<b> Edgelist: </b> <br>
 from <br>
 definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort<br>
 to 	<br>
